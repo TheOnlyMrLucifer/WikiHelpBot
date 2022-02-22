@@ -1,49 +1,59 @@
+<h1 align = "center"> ❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞ </h1>
 
-<h1 align="center"><b>❤️ RFC OFFICIAL GROUP MANAGEMENT BOT ❤️</b></h1>
+### 🎖 History
 
-<h4 align="center">RFC GROUP MANAGEMENT BOT A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
-<p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/INNOCENTARMY1/RFCMUSIC/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Itsunknown-12/TGN-Robot)
+
+<p align = "center"><a herf = "https://t.me/Zaid2_Ro_bot" alt = "Zaid"><img src = "https://telegra.ph/file/3e84ce12b9b3769a728ef.jpg" width = "900"></a></p>
+
+<p align = "center">
+<a href = "https://python.org">
+<img src = "https://forthebadge.com/images/badges/made-with-python.svg">
 </p>
+</a>
 
-<p align="center"><a href="https://t.me/DEEWANA_MAHADEV_KA"><img src="https://te.legra.ph/file/db05bb1cca3de4ede2270.jpg" width="400"></a></p>
-
-<p align="center">
-    <a href="https://app.codacy.com/manual/Innocentarmy1/RFCMUSIC/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/INNOCENTARMY1/RFCMUSIC"> <img src="https://img.shields.io/github/repo-size/INNOCENTARMY1/RFCMUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Innocentarmy1/RFCMUSIC/commits/prince"> <img src="https://img.shields.io/github/last-commit/Innocentarmy1/RFCMUSIC?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/INNOCENTARMY1/RFCMUSIC/issues"> <img src="https://img.shields.io/github/issues/INNOCENTARMY1/RFCMUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/INNOCENTARMY1/RFCMUSIC/network/members"> <img src="https://img.shields.io/github/forks/INNOCENTARMY1/RFCMUSIC?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
+<p align = "center">
+<a href = "https://github.com/Itsunknown-12/Zaid-Robot">
+<img src = "https://forthebadge.com/images/badges/open-source.svg">
 </p>
+</a>
 
-> ⭐️ Thanks to everyone for USING RFC TELEGRAM GROUP MANAGEMENT BOT, That is the greatest pleasure we have !
+###
+** features over other bots:**
+- Modern
+- Chatbot
+- Fast
+- Fully open-source
+- Frequently updated
+- Multi Language Support
+- Advanced Federation System With Buttons
+- Advanced Api
+- Smart Ai System
+- Easy To Use
+- Random Logos
 
-## Avaiilable on Telegram as [RFC BOT](https://t.me/)
-
-## ✨ Easy To Deploy Direct In Repo✨
-
-The Easiest Way To Deploy This Bot Direct From GitHub
-
-<p align="center"><a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
-
-## ✨ Easy To Deploy Direct In Repo✨
-
-The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TheOnlyMrLucifer/WikiHelpBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
- 
- 
-# ❤️ Support
-<a href="https://t.me/RFCTEAM"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/RFC_TEAM"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/DEEWAN_MAHADEV_KA"><img src="https://img.shields.io/badge/OWNER%20RFC-blue.svg?logo=telegram"></a>
+Can be found on Telegram as [TGN 💞](https://t.me/Luckyybbot)</br>
 
 
-## CREDITS
+## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=TGN-Robot&theme=dark)
 
-- [DESHANT](https://t.me/DEEWANA_MAHADEV_KA)
-- [RFC](https://t.me/RFC_TEAM)
+## 🅓🅔🅟🅛🅞🅨
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrvk1703/TGN-Robot-1)
+
+
+## 🆅🅴🆁🅸🅰🅱🅻🅴🆂
+[ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
+
+## 🆂🆄🅿🅿🅾🆁🆃
+[![Zaid](https://img.shields.io/badge/Zaid-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/terayaarhoomai)</br></br>
+[![Zaid](https://img.shields.io/badge/Superior-Group-red?style=for-the-badge&logo=telegram)](https://t.me/Maxopeditz)</br></br>
+[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/cute_boy701)
+
+## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
+
+ - Saitama Robot - for Modules
+ - Layla Bot - for Some Help modules
+ - innexia - for some Button And Helps
 
 

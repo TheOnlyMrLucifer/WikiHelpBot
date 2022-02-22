@@ -1,3 +1,2 @@
-worker: python3 -m RocksAlexaRobot
-web: python3 -m RocksAlexaRobot
+worker: python3 -m TGNRobot
 ps:scale worker=1
