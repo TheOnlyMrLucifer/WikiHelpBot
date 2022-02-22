@@ -79,12 +79,12 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[RFC GROUP MANAGEMENT BOT](https://te.legra.ph/file/3ba969b180c0066a0c0f3.jpg)』
+ ──『[RFC GROUP MANAGEMENT BOT](https://te.legra.ph/file/e6d0760dbb3bde20fd16b.jpg)』
 
 Hey !!❤️
-I Am *RFC GROUP MANAGEMENT BOT* ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴅɪsᴛʀᴏʏ ᴀʟʟ ʀᴜᴍᴇʀs ᴡɪᴛʜ ᴍʏ ᴍᴀɢɪᴄ...\n
-*JOIN OFFICIAL NETWORK* -
-[CHANNEL](t.me/RFCTEAM) - [SUPPORT](t.me/WikiLeaksBots)\n
+I Am *WikiLeaks Group Bot* ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴅɪsᴛʀᴏʏ ᴀʟʟ ʀᴜᴍᴇʀs ᴡɪᴛʜ ᴍʏ ᴍᴀɢɪᴄ...\n
+*JOIN BOTS LOUNGE* -
+[Bots](t.me/WikiLeaksBots) - [OWNER](t.me/TheOnlyMrlucifer)\n
 *SEE POWER HIT - /help*
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
@@ -98,8 +98,8 @@ PMSTART_CHAT = (
 buttons = [
     [
         InlineKeyboardButton(
-                            text="💠 ᴀᴅᴅ WikiGroupBot ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💠",
-                            url="t.me/WikiGroupBot?startgroup=true"),
+                            text="💠 ᴀᴅᴅ WikiLeaksGroupBot ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💠",
+                            url="t.me/WikiLeaksGroupBot?startgroup=true"),
                     ],
                    [
                        InlineKeyboardButton(text="💠 DEVELOPER", url="t.me/TheOnlyMrLucifer"),
