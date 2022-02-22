@@ -1,0 +1,5 @@
+build:
+  docker:
+    worker: AsadFile
+run:
+  worker: python3 -m RocksAlexaRobot
