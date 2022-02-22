@@ -39,7 +39,7 @@ Can be found on Telegram as [TGN 💞](https://t.me/Luckyybbot)</br>
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=TGN-Robot&theme=dark)
 
 ## 🅓🅔🅟🅛🅞🅨
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrvk1703/TGN-Robot-1)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheOnlyMrLucifer/WikiHelpBot)
 
 
 ## 🆅🅴🆁🅸🅰🅱🅻🅴🆂

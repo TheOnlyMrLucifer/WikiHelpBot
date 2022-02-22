@@ -74,26 +74,26 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ
+HI, ɪ ᴍ WikiLeaks Group Bot
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ!
- [❤](https://telegra.ph/file/3e84ce12b9b3769a728ef.jpg)
+ [❤](hhttps://telegra.ph/file/b9b3e76c4b930a6ec223e.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="💜✨ᴀᴅᴅ ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ✨💜", url="t.me/TGN_Ro_bot?startgroup=true"),
+            text="💜✨ᴀᴅᴅ WikiLeaks Group Bot ᴛᴏ ᴜʀ ᴄʜᴀᴛ✨💜", url="t.me/WikiLeaksGroupBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🦋ᴏᴡɴᴇʀ", url=f"https://t.me/lucky01xd"),
+        InlineKeyboardButton(text="🦋ᴏᴡɴᴇʀ", url=f"https://t.me/TheOnlyMrLucifer"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ 🦋", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="❣️ ᴜᴘᴅᴀᴛᴇꜱ", url=f"https://t.me/maxopeditz"),
+        InlineKeyboardButton(text="❣️ BOTS", url=f"https://t.me/WikiLeaksBots"),
         InlineKeyboardButton(
-            text="ʟᴜᴄᴋʏ ᴄʜᴀᴛ ❣️", url=f"https://t.me/Terayaarhoomai"
+            text="Peri Group ❣️", url=f"https://t.me/WikiLeaks69"
         ),
     ],
     [
@@ -104,13 +104,13 @@ buttons = [
 
 HELP_STRINGS = """
 `ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/3e84ce12b9b3769a728ef.jpg)"""
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/b9b3e76c4b930a6ec223e.jpg)"""
 
-START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
+START_IMG = "https://telegra.ph/file/b9b3e76c4b930a6ec223e.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [ʟᴜᴄᴋʏ](t.me/terayaarhoomai) \
- Supporting isnt always financial! [ ɴᴇᴛᴡᴏʀᴋ](https://t.me/Maxopeditz) \
+ You can support the project [Wiki](t.me/TheOnlyMrLucifer) \
+ Supporting isnt always financial! [ Bots](https://t.me/WikiLeaksBots) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>Lucky is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>WikiLeaks Group Bot is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
@@ -359,7 +359,7 @@ def zaid_about_callback(update, context):
     query = update.callback_query
     if query.data == "zaid_":
         query.message.edit_text(
-            text=""" ℹ️ I am [LUCKY Robot](t.me/LUCKYYBBOT), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I am [WikiLeaksGroupBot](t.me/WikiLeaksGroupBot), a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
@@ -367,8 +367,6 @@ def zaid_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_TGN's licensed under the GNU General Public License v3.0_
-                 \n❍ Assistant @lucky_iz_mine.
-                 \nHere is the [💾Repository](https://github.com/mrvk1703/video-stream).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -395,8 +393,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [Robot](t.me/Luckyybbot)
-                 \nHere is the [Source Code](https://github.com/mrvk1703/video-stream) .""",
+            text=""" Hi..🤗 I am [Wiki](t.me/WikiLeaksGroupBot)
+                 \nHere is the [Source Code](https://github.com/TheOnlyMrLucifer/WikiHelpBot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(

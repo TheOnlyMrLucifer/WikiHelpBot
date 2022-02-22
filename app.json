@@ -1,7 +1,7 @@
 {
-      "name": "╚»ʟᴜᴄᴋʏ«╝ Robot",
+      "name": "Wiki Robot",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/3e84ce12b9b3769a728ef.jpg",
+      "logo": "https://telegra.ph/file/b9b3e76c4b930a6ec223e.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "TGN"
       ],   
-   "repository": "https://github.com/mrvk1703/TGN-Robot-1.git",
+   "repository": "https://github.com/TheOnlyMrLucifer/WikiHelpBot",
    "addons": [
       {
          "options": {
