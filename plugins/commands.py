@@ -11,7 +11,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 @Client.on_message(filters.private & filters.command(['start']))
 async def start(client, message):
     buttons = [[
-        InlineKeyboardButton('📜 WikiLeaks Bot's', url='https://t.me/WikiLeaksBots'),
+        InlineKeyboardButton('📜 WikiLeaks Bots', url='https://t.me/WikiLeaksBots'),
         InlineKeyboardButton('Owner ♻️', url='https://t.me/TheOnlyMrLucifer')
     ],[
         InlineKeyboardButton('SouceCode 💡', url='https://github.com/TheOnlyMrLucifer/WikiHelpBot')
