@@ -1,15 +1,4 @@
-# Auto-File-Forward-Bot
 
-Auto file forward bot.
-Without Admin Permission in FROM_CHANNEL
-Only Give Permission In your Telegram Personal Channel
-
-```
-Please fork this repository don't import code
-Made with Python3
-(C) @DforDarkAngel
-Copyright permission under GNU GENERAL PUBLIC LICENSE
-```
 
 ### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheOnlyMrLucifer/WikiHelpBot)
@@ -41,7 +30,5 @@ python3 main.py
 * `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@ShJil/PyroSessionString)
 
 
-### Credits
 
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
-* `Special Thanks Dump Group Members`🤣
+
