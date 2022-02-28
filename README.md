@@ -1,49 +1,47 @@
-<h2 align="center">
-    ──「 Yumeko IS A MODULAR BOT WITH ANIME THEME 」──
-</h2>
+# Auto-File-Forward-Bot
 
-<p align="center">
-  <img src="https://telegra.ph/file/900499565371726a3f256.jpg">
-</p>
+Auto file forward bot.
+Without Admin Permission in FROM_CHANNEL
+Only Give Permission In your Telegram Personal Channel
 
-<p align="center">
-<a href="https://t.me/YumekoProBot"> <img src="https://github.com/Kakegurui-Domain/YumekoBot/blob/Yumeko/YumekoBot/resources/siesta-robot.svg" alt="Yumeko on Telegram" /> </a></br>
-<a href="https://github.com/shiinobu/YumekoBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs" /></a></br>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Made%20With-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://GitHub.com/Kakegurui-domain/YumekoBot"> <img src="https://img.shields.io/badge/Maintained-Yes-lightgrey?style=for-the-badge" alt="Maintenance" /> </a>
-<a href="https://docs.sqlalchemy.org/en/14/"> <img src="https://img.shields.io/badge/SQL%20Alchemy-1.4.29-green?style=for-the-badge" alt="SQL Alchemy" /> </a><br>
-<a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-12.8-white?style=for-the-badge&logo=github" alt="Python Telegram Bot" /> </a>
-<a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.23.0-red?style=for-the-badge&logo=github" alt="Telethon" /> </a>
-<a href="https://docs.python.org"> <img src="https://img.shields.io/badge/Python-2.8.1-purple?style=for-the-badge&logo=python" alt="Python Version" /> </a>
-</p>
+```
+Please fork this repository don't import code
+Made with Python3
+(C) @DforDarkAngel
+Copyright permission under GNU GENERAL PUBLIC LICENSE
+```
 
-<p align="center">
-  <img src="https://telegra.ph/file/5835dce546af117c637d4.jpg">
-</p>
+### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheOnlyMrLucifer/WikiHelpBot)
 
-<h2 align="center">
-    ──「 DEPLOY ON HEROKU 」──
-</h2>
+## HOW TO DEPLOY YOUTUBE TUTORIAL
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Kakegurui-domain/YumekoBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://youtu.be/xufAzeTLRIs"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+
+Deploy in your vps
+```sh
+git clone https://github.com/Sh-Jil/Forwardit
+cd Forwardit
+pip3 install -r requirements.txt
+# <Create Variables appropriately>
+python3 main.py
+```
+
+### Variables
+
+* `API_HASH` Your API Hash from my.telegram.org
+* `API_ID` Your API ID from my.telegram.org
+* `BOT_TOKEN` Your bot token from @BotFather
+* `OWNER_ID` Must enter Your Telegram Id
+* `FROM_CHANNEL` Enter any public channel eg:- @abcdefgh
+* `TO_CHANNEL` Your Channel ID eg:- -100xxxxxxxx
+* `CAPTION` If you want to add a caption to the forwarded file, enter it here
+* `FILTER_TYPE` Enter Filter type eg:- document or audio or photo or empty
+* `SKIP_NO` Enter File Skiping Number default number '0' 
+* `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@ShJil/PyroSessionString)
 
 
-<h2 align="center">
-    ──「 SUPPORT 」──
-</h2>
+### Credits
 
-<p align="center">
-<a href="https://t.me/YumekoProBot"> <img src="https://img.shields.io/badge/Yumeko-User-green?style=for-the-badge&logo=telegram" alt="Yumeko on Telegram" /> </a>
-<a href="https://t.me/Yumekosupport"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/YumekoUpdates"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
-</p>
-
-<h2 align="center">
-    ──「 CREDIT 」──
-</h2>
-
-<p align="center">
-<a href="https://github.com/zeinzo/LunaRobotV2"> <img src="https://img.shields.io/badge/LunaBot-Github-magenta?style=for-the-badge&logo=github" alt="Luna Github" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot"> <img src="https://img.shields.io/badge/SaitamaRobot-Github-magenta?style=for-the-badge&logo=github" alt="SaitamaRobot Github" /> </a>
-</p>
+* [Pyrogram](https://github.com/pyrogram/pyrogram)
+* `Special Thanks Dump Group Members`🤣
