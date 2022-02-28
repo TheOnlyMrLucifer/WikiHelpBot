@@ -1,3 +1,1 @@
-TgCrypto
-Pyrogram
-Dnspython
+python-telegram-bot

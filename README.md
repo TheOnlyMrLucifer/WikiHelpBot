@@ -1,34 +1,95 @@
+## Forward Tag Remover Bot 🤖
+>A Telegram Bot 🤖 to hide forward source
+
+<br/>
+
+### 🤗Express Your ❤️ With A Star ⭐️ To The Repo And Donation😇
 
 
-### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheOnlyMrLucifer/WikiHelpBot)
+```
+Bitcoin -> 
+bc1qt4andmh0f269rplanc27mvesnm24qg4pl235m2
 
-## HOW TO DEPLOY YOUTUBE TUTORIAL
+Litecoin -> 
+ltc1q92qe8x3m9dwtpcj9y36txlm3yk5crmhz8ehf9e
 
-<a href="https://youtu.be/xufAzeTLRIs"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+Ethereum -> 
+0xF1e227d2ECAFe2725A5f4F03875191a2EfAC8dfe
 
-Deploy in your vps
-```sh
-git clone https://github.com/Sh-Jil/Forwardit
-cd Forwardit
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 main.py
+Bitcoin Cash ->
+qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
+
 ```
 
-### Variables
+<br/>
 
-* `API_HASH` Your API Hash from my.telegram.org
-* `API_ID` Your API ID from my.telegram.org
-* `BOT_TOKEN` Your bot token from @BotFather
-* `OWNER_ID` Must enter Your Telegram Id
-* `FROM_CHANNEL` Enter any public channel eg:- @abcdefgh
-* `TO_CHANNEL` Your Channel ID eg:- -100xxxxxxxx
-* `CAPTION` If you want to add a caption to the forwarded file, enter it here
-* `FILTER_TYPE` Enter Filter type eg:- document or audio or photo or empty
-* `SKIP_NO` Enter File Skiping Number default number '0' 
-* `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@ShJil/PyroSessionString)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Artis7eeR/)
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Artis7eeR/ForwardTagRemoverBot)
+
+[![GitHub forks](https://img.shields.io/github/forks/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Fork)](https://GitHub.com/Artis7eeR/ForwardTagRemoverBot/network/)
+[![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Star)](https://github.com/Artis7eeR/ForwardTagRemoverBot/)
+
+
+[**[See Our Video Here To Know How To Build Bot With Coding](https://youtu.be/swg6un2N4Fk)**]🎞️
+
+<br/>
+
+### Features 🔥
+
+- Hide **File Source** From Forwarded Files 😊
+- Support For **Adding Caption** To Audio,Files,Video And Voice 😊
+
+<br/>
+
+### Installation (Locally) 💻
+
+>Make Sure You Have Python Installed On Your Device
+
+
+```
+ #Clone the repo👾
+ git clone https://github.com/Artis7eeR/ForwardTagRemoverBot.git
+ 
+ #Open The Folder📂
+ cd ForwardTagRemoverBot
+ 
+ #Install requirements🎯
+ pip install -r requirements.txt
+ 
+ #edit the bot token in config file📝
+ nano config.py
+ 
+ #Finally Run The Bot🤖
+ python bot.py
+ 
+```
+<br/>
+ 
+### Installation (Cloud) 🌩
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheOnlyMrLucifer/WikiHelpBot)
+
+<br/>
+
+### Variables ⚙️
+ **BOT_TOKEN: Get this value from [BotFather](https://telegram.dog/Botfather)**
+
+### [Demo Bot](https://telegram.dog/Anonforwabot) 🔥
+
+<br/>
+
+## Bugs 🐞🐞
+
+[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://telegram.dog/TeamCyphers)
+[![GitHub issues](https://img.shields.io/github/issues/Artis7eeR/ForwardTagRemoverBot.svg)](https://github.com/Artis7eeR/ForwardTagRemoverBot/issues/)
+
+### Contributions are Invited 🙂
+
+**©[Artis7eeR](https://github.com/Artis7eeR)**
 
 
 

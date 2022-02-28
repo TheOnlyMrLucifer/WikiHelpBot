@@ -1,23 +1,25 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# (c) Dark Angel
+# ForwardTagRemoverBot - A Telegram Bot To Hide Forward Source
+#Copyright (C) 2020 by Rasak <https://github.com/Artis7eeR>
+#ForwardTagRemoverBot is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License as published by
+#the Free Software Foundation, either version 3 of the License, or
+#(at your option) any later version.
+
+#ForwardTagRemoverBot is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+
+#You should have received a copy of the GNU General Public License
+#along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
 
 import os
-import logging
 
 class Config:
-    
-    API_ID = int(os.environ.get("API_ID", 12345))
-    API_HASH = os.environ.get("API_HASH")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
-    BOT_SESSION = os.environ.get("BOT_SESSION", "bot") 
-    CAPTION = os.environ.get("CAPTION", "")
-    FROM_CHANNEL = os.environ.get("FROM_CHANNEL", None)
-    FILTER_TYPE = os.environ.get("FILTER_TYPE", "")
-    OWNER_ID = os.environ.get("OWNER_ID", 12345)
-    LIMIT = int(os.environ.get("LIMIT", "25000"))
-    SKIP_NO = int(os.environ.get("SKIP_NO", "0"))
-    SESSION = os.environ.get("SESSION")
-    TO_CHANNEL = int(os.environ.get("TO_CHANNEL", 12345))
-def LOGGER(name: str) -> logging.Logger:
-    return logging.getLogger(name)
+	
+ TOKEN=os.environ.get("BOT_TOKEN",None)
+ SOURCE="https://github.com/TheOnlyMrLucifer/WikiHelpBot"
+ START_TEXT="Hi [{}](tg://user?id={})\nI am A Forward Tag remover Bot.Send /help To Know What I Can Do \n TheOnlyMrLucifer"
+ HELP_TEXT="Forward Me A File,Video,Audio,Photo or Anything And \nI will Send You the File Back\n\n`How to Set Caption?`\nReply Caption to a File,Photo,Audio,Media"
+	
